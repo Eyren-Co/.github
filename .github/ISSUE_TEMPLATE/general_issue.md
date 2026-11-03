@@ -1,4 +1,3 @@
-
 ---
 name: General Issue
 about: Create a feature, task, refactor, or other development issue
